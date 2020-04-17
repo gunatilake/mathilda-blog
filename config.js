@@ -10,6 +10,5 @@ module.exports = {
     twitter: 'https://www.instagram.com/itsmathilda'
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
-  }
+  siteUrl: 'https://ryanfitzgerald.github.io/devblog/'
 };
