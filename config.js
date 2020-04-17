@@ -8,5 +8,8 @@ module.exports = {
   postsPerPage: 5, // Required
   social: {
     twitter: 'https://www.instagram.com/itsmathilda'
+  },
+  pathPrefix: '/devblog',
+  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
   }
 };
